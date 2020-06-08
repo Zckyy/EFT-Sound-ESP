@@ -1,6 +1,7 @@
 # EFT kill notifications
 
 This tool allows you to recieve audible feedback after killing an enemy on EFT (video game) (Escape from tarkov).
+
 Now u dont need to flank guys that you killed with a nade.
 
 ## Installation
