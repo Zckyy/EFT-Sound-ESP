@@ -18,7 +18,7 @@ or
 pip install -r requirements.txt
 ```
 ## Legal issues?
-Whilst thisnt isnt technically legal by ToS or EulA of the game, it shouldnt get you into any trouble. It uses NVIDIA highlights to determine with you killed someone or not.
+Whilst thisnt isnt technically legal by ToS or EulA of the game, it shouldnt get you into any trouble. It uses NVIDIA highlights to determine whether you killed someone or not.
 
 ## Usage
 
