@@ -26,4 +26,4 @@ Just run the script after installation and play
 ```
 
 ## Legalities
-Whilst this isnt technically legal by ToS or EulA of the game, it shouldnt get you into any trouble. It uses NVIDIA highlights to determine whether you killed someone or not. There is no memory modifications or injections of any kind.
+Whilst this isnt technically speicified as a potential issue on the ToS or EulA of the game, it shouldnt get you into any trouble. It uses NVIDIA highlights to determine whether you killed someone or not. There is no memory modifications or injections of any kind.
